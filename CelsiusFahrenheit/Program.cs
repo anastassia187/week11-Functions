@@ -24,7 +24,7 @@ namespace CelsiusFahrenheit
         {
 
 
-            double result = temp * (9 / 5) + 32;
+            double result = (temp * 9 / 5) + 32;
             return result;
         }
 
